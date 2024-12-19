@@ -39,16 +39,22 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ## 🔗 Get in Touch
 
-<div style="display: flex; align-items: center; gap: 10px;">
-<a href="https://www.linkedin.com/in/mdahaduzzamanhridoy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdahaduzzaman" height="30" width="40" /></a>
 
-<a href="https://x.com/mdahaduzzamanhr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdahaduzzaman" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mdahaduzzamanhridoy" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://x.com/mdahaduzzamanhr" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/mdahaduzzamanhridoybd" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/mdahaduzzamanhr" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
-
-<a href="https://www.facebook.com/mdahaduzzamanhridoybd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdahaduzzaman" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/mdahaduzzamanhr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdahaduzzaman" height="30" width="40" /></a>
-</div>
 
 
 ## 🔥 GitHub Stats
