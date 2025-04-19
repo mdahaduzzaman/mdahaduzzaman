@@ -59,7 +59,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ## 🔥 GitHub Stats
 
-![Md Ahaduzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdahaduzzaman&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Md Ahaduzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdahaduzzaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 
 ## 📝 Most Used Languages
