@@ -1,12 +1,12 @@
 # 👋 About Me
 
-🔧 I’m currently working on building a scalable web application using microservices architecture with technologies like Django, FastAPI, and RabbitMQ.
+🔧 I’m currently working on building a scalable web application using microservices architecture with technologies like Django, FastAPI, and Kafka.
 
 🤝 I’m open to collaborating on open-source projects related to full-stack development.
 
-🧠 I’m actively looking to improve my skills in optimizing database queries for large-scale systems.
+🧠 I’m actively looking to improve my skills in designing scalable database.
 
-🚀 Currently diving into Kafka, React Native, DynamoDB, and learning DevOps best practices to improve deployment and scalability.
+🚀 Currently diving into Kafka, React Native, and learning DevOps best practices to improve deployment and scalability.
 
 ## 🛠 Technical Skills
 
@@ -14,9 +14,9 @@
 
 - **Languages:** Python
 - **Frameworks:** Django, Django REST Framework, FastAPI
-- **Async Processing:** Celery, Redis Queue
+- **Async Processing:** Celery
 - **Real-time Tech:** Server-Sent Events (SSE), WebSockets
-- **Message Brokers:** RabbitMQ, Redis Pub/Sub
+- **Message Brokers:** Kafka, Redis
 
 #### **Frontend Development**
 
