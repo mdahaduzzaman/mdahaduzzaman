@@ -59,8 +59,6 @@
 </p>
 
 ## 🔥 GitHub Stats
-[![Md Ahaduzzaman's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mdahaduzzaman?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
-
 ![Md Ahaduzzaman's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdahaduzzaman&langs_count=10&layout=compact&theme=radical)
 
 ![Md Ahaduzzaman's GitHub Streak](https://streak-stats.demolab.com/?user=mdahaduzzaman&theme=radical)
